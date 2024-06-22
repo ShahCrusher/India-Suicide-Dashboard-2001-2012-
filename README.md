@@ -37,7 +37,7 @@ This Power BI dashboard provides an analytical overview of suicide statistics in
 
 2. Open the Dashboard:
    Navigate to the directory where you cloned or extracted the repository.
-   Open the Suicides-in-India-2001-2012.pbix file in Power BI Desktop.
+   Open the Suicides-in-India.pbix file in Power BI Desktop.
 
 3. Connect to Data Source:
    If the dashboard requires connecting to a live data source, follow the prompts in Power BI to authenticate and connect to your data source.
