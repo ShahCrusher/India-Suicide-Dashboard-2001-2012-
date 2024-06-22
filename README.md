@@ -31,13 +31,13 @@ This Power BI dashboard provides an analytical overview of suicide statistics in
 ### Steps
 1. Clone the repository:
    ```
-   git clone https://github.com/ShahCrusher/India-Suicide_Dashboard-2001-2012.git
+   git clone https://github.com/ShahCrusher/India-Suicide_Dashboard-2001-2012-.git
    ```
    Or download the repository as a ZIP file and extract it.
 
 2. Open the Dashboard:
    Navigate to the directory where you cloned or extracted the repository.
-   Open the India-Suicide_Dashboard-2001-2012.pbix file in Power BI Desktop.
+   Open the Suicides-in-India-2001-2012.pbix file in Power BI Desktop.
 
 3. Connect to Data Source:
    If the dashboard requires connecting to a live data source, follow the prompts in Power BI to authenticate and connect to your data source.
